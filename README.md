@@ -1,0 +1,2 @@
+# Information system for package transport
+This application represents an information system for package transportation. The operations that can be executed on the system are defined by the interfaces provided with the project statement. The database itself is modeled and forward-engineered using the erwin Data Modeler and with additional hand-written stored procedures and triggers. The database management system used in the project is Microsoft's SQL Server.
